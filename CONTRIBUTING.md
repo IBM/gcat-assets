@@ -69,4 +69,3 @@ git commit -s
 Questions can be sent to scottwn@ibm.com or jennifer.valle@ibm.com
 
 Those internal to IBM can connect in the [#gcat-assist](https://ibm-cloudplatform.slack.com/archives/CLB8FSPK8) Slack channel.
-Please feel free to connect with us on our [Slack channel](link).
